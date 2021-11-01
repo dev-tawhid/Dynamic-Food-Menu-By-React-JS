@@ -159,6 +159,7 @@ Menu
 .btn-container {
   margin-bottom: 4rem;
   display: flex;
+  margin-top: 20px;
   justify-content: center;
 }
 .filter-btn {
